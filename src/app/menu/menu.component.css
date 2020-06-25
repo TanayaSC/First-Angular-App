@@ -1,0 +1,24 @@
+p {
+    font-family: verdana;
+    font-size: 50px;
+    font-style: oblique;
+}
+
+.row-md-12 {
+    column-count: 3;
+}
+
+.img {
+    image-resolution: 20px;
+    align-self: center;
+}
+
+.ul {
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: oblique;
+}
+
+li {
+    list-style-type: none;
+}
